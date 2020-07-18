@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1”>
     <!-- Metadatos SEO -->
     <title>En Corto Producciones | Audiovisual | Argentina</title>
     <meta name="Description"
@@ -63,9 +63,11 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-6 subtitulo">
+                        <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">PROYECTOS</span>
                         </a>
+                        </h6>
                     </div>
                 </div>
             </div>
@@ -77,9 +79,11 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-6 subtitulo">
+                        <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">PRODUCTOS</span>
                         </a>
+                        </h6>
                     </div>
                 </div>
             </div>
@@ -91,9 +95,11 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-6 subtitulo">
+                        <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">CLIENTES</span>
                         </a>
+                        </h6>  
                     </div>
                 </div>
             </div>
@@ -105,9 +111,11 @@
                         </a>
                     </div>
                     <div class="col-sm-12 col-6 subtitulo">
+                        <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">CONTACTO</span>
                         </a>
+                        </h6>
                     </div>
                 </div>
             </div>

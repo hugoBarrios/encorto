@@ -1,3 +1,5 @@
+<!-- Schema org -->
+<script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"EN CORTO PRODUCCIONES","url":"https://www.encorto.com.ar/","address":"Av. Juan B. Justo, C1414CXP CABA, Argentina","sameAs":["https://www.facebook.com/ENCORTOPRODUCCIONES","https://www.youtube.com/channel/UCPiNNEs3XhHYVOrQdI31L3Q","https://vimeo.com/encorto","https://www.linkedin.com/company/en-corto-producciones/","https://codea.app/bootstrap/tarjetas-responsive-con-bootstrap"]}</script>
 <header>
         <!-- navbar escritorio -->
         <nav class="nvescritorio navbar navbar-light bg-none fixed-top justify-content-between">

@@ -32,6 +32,5 @@
         </div>
     </footer>
     <!-- scripts -->
-    <script src="src/js/gsap.min.js"></script>
     <script src="src/js/main.js"></script>
     <!-- scripts -->

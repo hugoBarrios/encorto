@@ -23,8 +23,19 @@
     <meta property="fb:admins" content="ENCORTOPRODUCCIONES" />
     <!-- Google site -->
     <meta name="google-site-verification" content="NPRklswy7GlPP1VLH8jgy8M8VaHhXcOSo5I6_QcrS8A" />
-    <script
-        type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"EN CORTO PRODUCCIONES","url":"https://www.encorto.com.ar/","address":"Av. Juan B. Justo, C1414CXP CABA, Argentina","sameAs":["https://www.facebook.com/ENCORTOPRODUCCIONES","https://www.youtube.com/channel/UCPiNNEs3XhHYVOrQdI31L3Q","https://vimeo.com/encorto","https://www.linkedin.com/company/en-corto-producciones/"]}</script>
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "name": "EN CORTO PRODUCCIONES",
+        "url": "https://www.encorto.com.ar/",
+        "address": "Av. Juan B. Justo, C1414CXP CABA, Argentina",
+        "sameAs": ["https://www.facebook.com/ENCORTOPRODUCCIONES",
+            "https://www.youtube.com/channel/UCPiNNEs3XhHYVOrQdI31L3Q", "https://vimeo.com/encorto",
+            "https://www.linkedin.com/company/en-corto-producciones/"
+        ]
+    }
+    </script>
     <!-- Metadatos SEO -->
     <!-- Estilos -->
     <!-- boostrap -->
@@ -38,15 +49,52 @@
     <script src=" https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/js/all.min.js"
         integrity="sha512-YSdqvJoZr83hj76AIVdOcvLWYMWzy6sJyIMic2aQz5kh2bPTd9dzY3NtdeEAzPp/PhgZqr4aJObB3ym/vsItMg=="
         crossorigin="anonymous">
-        </script>
+    </script>
 </head>
 
 <body>
     <!-- Navbar -->
     <?php include './templates/header.php';?>
     <!-- Navbar -->
+    <div class="container seccion1">
+        <div class="row">
+            <div class="col-12">
+                <h3 class="text-white">01</h3>
+            </div>
+            <div class="col-12">
+                <h2 class="text-white">Soluciones <span class="resaltado">audiovisuales,</span>&nbsp;y de comunicación
+                    que responden&nbsp;a los requerimientos de cada cliente.</h2>
+            </div>
+        </div>
+    </div>
+    <!-- Home back -->
+    <div class="container home">
+        <div class="row ">
+            <div class="col">
+                <a href="https://www.encorto.com.ar/" target="_self" class="text-white"><i class="fas fa-arrow-left resaltado rhover"></i> HOME</a>
+            </div>
+        </div>
+    </div>
+    <!-- Proyectos -->
+    <div class="container-fluid proyectos">
+        <div class="row">
+            <div class="col-md-2dot4">
+                <div class="card">
+                    <img class="card-img"
+                        src="https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/bologna-3.jpg"
+                        alt="Bologna">
+                    <div class="card-img-overlay text-white d-flex flex-column justify-content-end ">
+                        <div class="link">
+                            <h5><a href="#" class="card-link hover">VIEW></a>
+                                <h5>
+                        </div>
+                        <h4 class="card-title">Reel</h4>
+                    </div>
+                </div>
+            </div>
 
-    
+        </div>
+    </div>
     <!-- Footer -->
     <?php include './templates/footer.php';?>
 

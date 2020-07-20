@@ -71,7 +71,8 @@
     <div class="container home">
         <div class="row ">
             <div class="col">
-                <a href="https://www.encorto.com.ar/" target="_self" class="text-white"><i class="fas fa-arrow-left resaltado rhover"></i> HOME</a>
+                <a href="https://www.encorto.com.ar/" target="_self" class="text-white"><i
+                        class="fas fa-arrow-left resaltado rhover"></i> HOME</a>
             </div>
         </div>
     </div>
@@ -80,19 +81,54 @@
         <div class="row">
             <div class="col-md-2dot4 col-12">
                 <div class="card w-100 h-100">
-                    <!-- <img class="card-img"
-                        src="https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/bologna-3.jpg"
-                        alt="Bologna"> -->
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a>
-</h5>
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Reel</h4>
                     </div>
                 </div>
             </div>
-
+            <div class="col-md-2dot4 col-12">
+                <div class="card w-100 h-100">
+                    <div class=" card-body text-white d-flex flex-column justify-content-end ">
+                        <div class="link">
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                        </div>
+                        <h4 class="card-title">Carl Zeiss</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2dot4 col-12">
+                <div class="card w-100 h-100">
+                    <div class=" card-body text-white d-flex flex-column justify-content-end ">
+                        <div class="link">
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                        </div>
+                        <h4 class="card-title">Granotec</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2dot4 col-12">
+                <div class="card w-100 h-100">
+                    <div class=" card-body text-white d-flex flex-column justify-content-end ">
+                        <div class="link">
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                        </div>
+                        <h4 class="card-title">Urban Run</h4>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-2dot4 col-12">
+                <div class="card w-100 h-100">
+                    <div class=" card-body text-white d-flex flex-column justify-content-end ">
+                        <div class="link">
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                        </div>
+                        <h4 class="card-title">Pol-ka</h4>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!-- Footer -->

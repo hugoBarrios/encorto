@@ -1,4 +1,4 @@
-<header>
+<div>
         <!-- navbar escritorio -->
         <nav class="nvescritorio navbar navbar-light bg-none fixed-top justify-content-between">
             <a class="navbar-brand hover">encorto</a>
@@ -40,4 +40,4 @@
                 <a href="#">Contacto</a>
             </div>
         </div>
-    </header>
+</div>

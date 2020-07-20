@@ -14,14 +14,17 @@ body {
     background-color: var(--fondo);
     font-size: 20px;
 }
+
 .hover:hover {
     color: var(--hover) !important;
     transition: all 0.5s ease;
 }
-.rhover:hover{
+
+.rhover:hover {
     color: var(--colorletra) !important;
     transition: all 0.5s ease;
 }
+
 .resaltado {
     color: var(--resaltado);
 }
@@ -30,10 +33,12 @@ a {
     text-decoration: none !important;
 
 }
-.card{
+
+.card {
     border: none !important;
     border-radius: 0px !important;
 }
+
 /* Boostrap 5 columnas */
 .col-2dot4,
 .col-sm-2dot4,
@@ -46,12 +51,14 @@ a {
     padding-right: 0px;
     padding-left: 0px;
 }
+
 .col-2dot4 {
     -webkit-box-flex: 0;
     -ms-flex: 0 0 20%;
     flex: 0 0 20%;
     max-width: 20%;
 }
+
 @media (min-width: 540px) {
     .col-sm-2dot4 {
         -webkit-box-flex: 0;
@@ -60,6 +67,7 @@ a {
         max-width: 20%;
     }
 }
+
 @media (min-width: 720px) {
     .col-md-2dot4 {
         -webkit-box-flex: 0;
@@ -68,6 +76,7 @@ a {
         max-width: 20%;
     }
 }
+
 @media (min-width: 960px) {
     .col-lg-2dot4 {
         -webkit-box-flex: 0;
@@ -76,6 +85,7 @@ a {
         max-width: 20%;
     }
 }
+
 @media (min-width: 1140px) {
     .col-xl-2dot4 {
         -webkit-box-flex: 0;
@@ -84,6 +94,7 @@ a {
         max-width: 20%;
     }
 }
+
 /* Navbar */
 .navbar {
     color: var(--colorletra);
@@ -95,7 +106,7 @@ a {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
     color: var(--colorletra) !important;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .nvmovil {
@@ -106,7 +117,7 @@ a {
     text-align: center;
     color: var(--colorletra);
     padding: 10px;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 /* Overlay */
@@ -172,7 +183,7 @@ a {
 }
 
 .seccion1 h2 {
-    font-size: 2.1em;
+    font-size: 42px;
     font-weight: bold;
 }
 
@@ -185,41 +196,62 @@ a {
 .seccion2 .numero {
     font-family: Helvetica;
     font-weight: bolder;
-    font-size: 3.5em;
+    font-size: 70px;
     text-align: center;
 }
 
 .seccion2 .subtitulo {
-    font-size: 0.75rem;
+    font-size: 12px;
     font-family: Helvetica;
-    letter-spacing: 0.5em;
+    letter-spacing: 5px;
     text-align: center;
 }
+
 /* Proyectos */
-.home{
+.home {
     padding: 10% 0 2% 0;
 }
-.home a{
-    font-weight: 200;
+
+.home a {
+    font-weight: 100;
     font-family: Helvetica;
     letter-spacing: 5px;
 }
-.proyectos .card h4{
+
+.proyectos {
+    font-size: 40px;
+}
+
+.proyectos .card h4 {
     text-align: center;
 }
-.proyectos .card h4{
+
+.proyectos .card h4 {
     text-align: center;
 }
-.proyectos .card h5{
+
+.proyectos .card h5 {
     padding-right: 5%;
     text-align: right;
 }
-.proyectos .card a{
+
+.proyectos .card a {
     font-family: Helvetica;
     font-weight: 100;
-    font-size: 0.9rem;
+    font-size: 14.4px;
     letter-spacing: 5px;
     color: #e3e3e3;
+}
+
+.proyectos .row {
+    height: 100px;
+}
+
+.proyectos .card {
+    background-image: url('https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/bologna-3.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* footer */
@@ -239,10 +271,11 @@ a {
 
 .footer {
     padding: 5% 0 5% 0;
+    overflow: hidden;
 }
 
 .footer .copy {
-    font-size: 0.5rem;
+    font-size: 8px;
     color: darkgray;
 }
 
@@ -250,11 +283,11 @@ a {
     text-align: center;
     color: var(--colorletra);
     padding: 10px;
-    font-size: 2rem;
+    font-size: 32px;
 }
 
 .footerdiv span.hover.text-white.text {
-    font-size: 1rem;
+    font-size: 15px;
 }
 
 /* responsive */
@@ -264,8 +297,9 @@ a {
 
 /* Large devices (desktops, 992px and up) */
 @media (max-width: 960px) {
-     /* Navbar */
-     .nvescritorio {
+
+    /* Navbar */
+    .nvescritorio {
         display: none !important;
     }
 
@@ -275,13 +309,24 @@ a {
 }
 
 /* Medium devices (tablets, 768px and up) */
-@media (max-width: 720px) {}
+@media (max-width: 720px) {
+    .proyectos .row {
+        height: 400px !important;
+    }
+
+    .proyectos .card {
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    }
+}
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 540px) {
 
-   
-
+    .proyectos .row {
+        height: 100px;
+    }
     /* Seccion1 */
     .seccion1 {
         padding: 7% 15% 0 15% !important;
@@ -299,7 +344,7 @@ a {
     }
 
     .seccion2 .subtitulo {
-        font-size: 0.7em;
+        font-size: 14px;
         display: flex !important;
         text-align: left;
         align-items: center;

@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Metadatos SEO -->
     <title>En Corto Producciones | Audiovisual | Argentina</title>
     <meta name="Description"
@@ -23,6 +23,7 @@
     <meta property="fb:admins" content="ENCORTOPRODUCCIONES" />
     <!-- Google site -->
     <meta name="google-site-verification" content="NPRklswy7GlPP1VLH8jgy8M8VaHhXcOSo5I6_QcrS8A" />
+    <script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"EN CORTO PRODUCCIONES","url":"https://www.encorto.com.ar/","address":"Av. Juan B. Justo, C1414CXP CABA, Argentina","sameAs":["https://www.facebook.com/ENCORTOPRODUCCIONES","https://www.youtube.com/channel/UCPiNNEs3XhHYVOrQdI31L3Q","https://vimeo.com/encorto","https://www.linkedin.com/company/en-corto-producciones/"]}</script>
     <!-- Metadatos SEO -->
     <!-- Estilos -->
     <!-- boostrap -->
@@ -57,12 +58,12 @@
         <div class="row">
             <div class="col-md-3">
                 <div class="row ">
-                    <div class="col-sm-12 col-6 numero ">
+                    <div class="col-md-12 col-6 numero animate__fadeInLeft">
                         <a href="#" class="text-white hover">
                             <span>01</span>
                         </a>
                     </div>
-                    <div class="col-sm-12 col-6 subtitulo">
+                    <div class="col-md-12 col-6 subtitulo">
                         <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">PROYECTOS</span>
@@ -73,12 +74,12 @@
             </div>
             <div class="col-md-3">
                 <div class="row ">
-                    <div class="col-sm-12 col-6 numero ">
+                    <div class="col-md-12 col-6 numero ">
                         <a href="#" class="text-white hover">
                             <span>02</span>
                         </a>
                     </div>
-                    <div class="col-sm-12 col-6 subtitulo">
+                    <div class="col-md-12 col-6 subtitulo">
                         <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">PRODUCTOS</span>
@@ -89,12 +90,12 @@
             </div>
             <div class="col-md-3">
                 <div class="row ">
-                    <div class="col-sm-12 col-6 numero ">
+                    <div class="col-md-12 col-6 numero ">
                         <a href="#" class="text-white hover">
                             <span>03</span>
                         </a>
                     </div>
-                    <div class="col-sm-12 col-6 subtitulo">
+                    <div class="col-md-12 col-6 subtitulo">
                         <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">CLIENTES</span>
@@ -105,12 +106,12 @@
             </div>
             <div class="col-md-3">
                 <div class="row">
-                    <div class="col-sm-12 col-6 numero">
+                    <div class="col-md-12 col-6 numero">
                         <a href="#" class="text-white hover">
                             <span>04</span>
                         </a>
                     </div>
-                    <div class="col-sm-12 col-6 subtitulo">
+                    <div class="col-md-12 col-6 subtitulo">
                         <h6>
                         <a href="#" class="text-white hover">
                             <span class="text-white">CONTACTO</span>
@@ -137,9 +138,7 @@
     </div>
     <!-- Footer -->
     <?php include './templates/footer.php';?>
-    <!-- scripts -->
-    <script src="src/js/main.js"></script>
-    <!-- scripts -->
+    
 </body>
 
 </html>

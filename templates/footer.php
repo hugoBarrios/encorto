@@ -1,7 +1,7 @@
 <footer>
         <div class="container footer">
             <div class="row">
-                <div class="col-sm-4 footerdiv d-none d-sm-block">
+                <div class="col-sm-4 footerdiv d-none d-md-block">
                     <a href="http://www.facebook.com/ENCORTOPRODUCCIONES" target="_blank"
                         data-content="http://www.facebook.com/ENCORTOPRODUCCIONES" data-type="external"
                         rel="noopener"><i class="fab fa-facebook-f"></i></a>
@@ -17,11 +17,11 @@
                         data-content="https://instagram.com/EN.CORTO.PRODUCCIONES" data-type="external"
                         rel="noopener"><i class="fab fa-instagram"></i></a>
                 </div>
-                <div class="col-sm-4 col-12 footerdiv">
+                <div class="col-md-4 col-12 footerdiv ">
                     <span class="copy">© 2017&nbsp;by En Corto Producciones - Productora Audiovisual - Buenos Aires -
                         Argentina&nbsp;</span>
                 </div>
-                <div class="col-4 footerdiv d-none d-sm-block">
+                <div class="col-4 footerdiv d-none d-md-block">
                     <a href="tel:+54114856-1702" data-content="+54114856-1702" data-type="phone">
                         <i class="fas fa-phone-alt"></i> <span class="hover text-white text">
                             &nbsp;&nbsp;llámanos +5411
@@ -31,3 +31,7 @@
             </div>
         </div>
     </footer>
+    <!-- scripts -->
+    <script src="src/js/gsap.min.js"></script>
+    <script src="src/js/main.js"></script>
+    <!-- scripts -->

@@ -14,7 +14,6 @@ body {
     background-color: var(--fondo);
     font-size: 20px;
 }
-
 .hover:hover {
     color: var(--hover) !important;
     transition: all 0.5s ease;
@@ -182,7 +181,16 @@ a {
 @media (max-width: 1140px) {}
 
 /* Large devices (desktops, 992px and up) */
-@media (max-width: 960px) {}
+@media (max-width: 960px) {
+     /* Navbar */
+     .nvescritorio {
+        display: none !important;
+    }
+
+    .nvmovil {
+        display: block !important;
+    }
+}
 
 /* Medium devices (tablets, 768px and up) */
 @media (max-width: 720px) {}
@@ -190,14 +198,7 @@ a {
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 540px) {
 
-    /* Navbar */
-    .nvescritorio {
-        display: none !important;
-    }
-
-    .nvmovil {
-        display: block !important;
-    }
+   
 
     /* Seccion1 */
     .seccion1 {

@@ -7,12 +7,16 @@
     --rojo: #FC0000;
 }
 
-
+@font-face{
+    font-family: "Roboto";
+    src: url(../font/Roboto-Regular.ttf);
+}
 /* Genrales */
 
 body {
     background-color: var(--fondo);
     font-size: 20px;
+    overflow-x: hidden !important;
 }
 
 .hover:hover {
@@ -38,6 +42,7 @@ a {
     border: none !important;
     border-radius: 0px !important;
 }
+
 
 /* Boostrap 5 columnas */
 .col-2dot4,
@@ -208,6 +213,27 @@ a {
 }
 
 /* Proyectos */
+.pro-seccion1{
+    padding-top: 10%;
+}
+.pro-seccion1 .numero hr{
+    color: var(--colorletra);
+    background-color: var(--colorletra);
+    height: 10px;
+    width: 260px;
+    margin: 0 0 -65px -80px;
+    padding: 0 0 0 0;
+}
+.pro-seccion1 h3{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.pro-seccion1 h2{
+    font-family: Helvetica;
+    font-size: 50px;
+    font-weight: bolder;
+}
 .home {
     padding: 10% 0 2% 0;
 }
@@ -242,12 +268,12 @@ a {
     color: #e3e3e3;
 }
 
-.proyectos .row{
-    height: 12em;
+.proyectos .cardcont {
+    height: 14em;
 }
 
 .proyectos .card {
-    background-image: url('https://s3.eu-central-1.amazonaws.com/bootstrapbaymisc/blog/24_days_bootstrap/bologna-3.jpg');
+
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -288,7 +314,137 @@ a {
 .footerdiv span.hover.text-white.text {
     font-size: 15px;
 }
+/* contacto */
+.parrafo{
+    color: #e3e3e3;
+    font-size: 0.7rem;
+    font-family: "roboto";
+    font-weight: 100;
+    letter-spacing: 2px;
+}
+.redes{
+    justify-content: center !important;
+    text-align: right;
+}
+.home-p{
+    padding: 3% 0 2% 0;
+}
 
+.home-p a {
+    font-weight: 100;
+    font-family: Helvetica;
+    letter-spacing: 5px;
+}
+/* nosotros */
+.no-seccion1{
+    padding-top: 10%;
+}
+.no-seccion1 .numero hr{
+    color: var(--colorletra);
+    background-color: var(--colorletra);
+    height: 10px;
+    width: 260px;
+    margin: 0 0 -65px -80px;
+    padding: 0 0 0 0;
+}
+.no-seccion1 h3{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bolder;
+}
+.no-seccion1 h2{
+    font-family: Helvetica;
+    font-size: 45px;
+    font-weight: bolder;
+}
+/* carrousel */
+.carousel-indicators li {
+    width: 7px !important;
+    height: 7px !important;
+    border-radius: 50%;
+}
+.carousel-item {
+    text-align: center;
+    height: auto;
+}
+.inner{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 300px;
+    padding: 0 15% 0 15%;
+}
+.inner h6{
+    font-size: 25px;
+    font-weight: bold;
+}
+/* conacto */
+.contacto{
+    text-align: justify;
+    padding-top: 5%;
+}
+.contacto form input,
+.contacto form textarea{
+    background-color: transparent;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: solid 1px #fff;
+    border-radius: 0px !important;
+    transition: all 0.5s ease;
+}
+.contacto form button{
+    background-color: transparent;
+    border: none;
+    transition: all 0.5s ease;
+}
+.contacto form button:hover,
+.contacto form button:focus{
+    background-color: transparent;
+    border: none;
+    transition: all 0.5s ease;
+    
+}
+.contacto form input:focus,
+.contacto form textarea:focus{
+    background-color: transparent;
+    border-top: none !important;
+    border-left: none !important;
+    border-right: none !important;
+    border-bottom: solid 1px #FC0000;
+    transition: all 0.5s ease;
+    outline: none !important;
+    outline-width: 0 !important;
+    box-shadow: none !important;
+}
+form input::placeholder,
+ form textarea::placeholder{ 
+    color: #e3e3e3 !important;
+    opacity: 1; 
+  }
+.info .tabs{
+    margin: 5% 0 0 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.break{
+    display: block;
+    width: 100%;
+    height: 0px;
+  }
+.info .tabs h6,
+.info .tabs p,
+.info .tabs a{
+    color: darkgray;
+    font-size: 15px;
+    font-weight: 100;
+}
+.info .bordes{
+    border-left: solid 1px var(--rojo);
+    border-right: solid 1px var(--rojo);
+}
 /* responsive */
 
 /* Extra large devices (large desktops, 1200px and up) */
@@ -305,23 +461,37 @@ a {
     .nvmovil {
         display: block !important;
     }
+    
 }
 
 /* Medium devices (tablets, 768px and up) */
 @media (max-width: 720px) {
-    .proyectos .row{
-        height: 3em;
+    .proyectos .cardcont {
+        height: 7em;
     }
-    
+
     .proyectos .card {
         background-repeat: no-repeat;
         background-position: center;
         background-size: cover;
     }
+    .pro-seccion1 h2{
+        font-size: 22px;
+    }
+    .no-seccion1 h2{
+        font-size: 22px;
+    }
+    .home{
+        padding: 20px;
+    }
+    .home-p{
+        padding: 20px;
+    }
 }
 
 /* Small devices (landscape phones, 576px and up) */
 @media (max-width: 540px) {
+
     /* Seccion1 */
     .seccion1 {
         padding: 7% 15% 0 15% !important;
@@ -345,4 +515,57 @@ a {
         align-items: center;
     }
 
+    .proyectos .cardcont {
+        height: 5em;
+    }
+    .pro-seccion1 .numero{
+        padding: 20px;
+    }
+    .pro-seccion1 .numero hr{
+        height: 8px;
+        width: 80px;
+        margin: 0 0 -40px -10px;
+    }
+    .pro-seccion1 h3{
+        font-size: 60px;
+    }
+    .pro-seccion1{
+        padding-top: 18%;
+    }
+    .pro-seccion1 h2{
+        font-size: 22px;
+    }
+    /* nosotros */
+    .no-seccion1 .numero{
+        padding: 20px;
+    }
+    .no-seccion1 .numero hr{
+        height: 8px;
+        width: 80px;
+        margin: 0 0 -40px -10px;
+    }
+    .no-seccion1 h3{
+        font-size: 60px;
+    }
+    .no-seccion1{
+        padding-top: 18%;
+    }
+    .no-seccion1 h2{
+        font-size: 22px;
+    }
+    
+    .home{
+        padding: 20px;
+    }
+    /* contacto */
+    .info .tabs{
+        text-align: center;
+        padding: 15px;
+    }
+    .info .bordes{
+        border-left: 0px;
+        border-right: 0px;
+        border-top: solid 1px var(--rojo);
+        border-bottom: solid 1px var(--rojo);
+    }
 }

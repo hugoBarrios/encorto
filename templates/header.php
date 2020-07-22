@@ -2,7 +2,7 @@
         <!-- navbar escritorio -->
         <nav class="nvescritorio navbar navbar-light bg-none fixed-top justify-content-between">
             <a class="navbar-brand hover">encorto</a>
-            <a class="nav-link" id="openNav">
+            <a class="nav-link" id="openNav" href="#menu">
                 <i class="fas fa-bars"></i>
             </a>
         </nav>
@@ -33,11 +33,11 @@
         <div id="myNav" class="overlay">
             <a href="javascript:void(0)" class="closebtn" id="closeNav">&times;</a>
             <div class="overlay-content">
-                <a href="#">Home</a>
-                <a href="#">Proyectos</a>
-                <a href="#">Productora</a>
+                <a href="/">Home</a>
+                <a href="proyectos.php">Proyectos</a>
+                <a href="nosotros.php">Productora</a>
                 <a href="#">Clientes</a>
-                <a href="#">Contacto</a>
+                <a href="contacto.php">Contacto</a>
             </div>
         </div>
 </div>

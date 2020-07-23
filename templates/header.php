@@ -34,10 +34,10 @@
             <a href="javascript:void(0)" class="closebtn" id="closeNav">&times;</a>
             <div class="overlay-content">
                 <a href="/">Home</a>
-                <a href="proyectos.php">Proyectos</a>
-                <a href="nosotros.php">Productora</a>
-                <a href="clientes.php">Clientes</a>
-                <a href="contacto.php">Contacto</a>
+                <a href="proyectos">Proyectos</a>
+                <a href="nosotros">Productora</a>
+                <a href="clientes">Clientes</a>
+                <a href="contacto">Contacto</a>
             </div>
         </div>
 </div>

@@ -21,6 +21,7 @@
     <meta property="og:image" content="https://www.encorto.com.ar/src/img/favicon.gif">
     <meta name="fb_admins_meta_tag" content="ENCORTOPRODUCCIONES" />
     <meta property="fb:admins" content="ENCORTOPRODUCCIONES" />
+    <link rel="canonical" href="index.php"/>
     <?php include './templates/headerscripts.php';?>
 </head>
 

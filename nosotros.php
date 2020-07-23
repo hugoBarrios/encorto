@@ -64,9 +64,9 @@
                 <h3 class="text-white">02</h3>
             </div>
             <div class="col-12">
-                <h2 class="text-white"><span>
+                <h2 class="text-white">
                         <span class="resaltado">En Corto.
-                        </span><span>Producciones Audiovisuales&nbsp;</h2>
+                        </span> Producciones Audiovisuales&nbsp;</h2>
 
                 <h2 class="text-white">
                     Dise&ntilde;o&nbsp;&amp; Agencia Creativa de Marketing Digital
@@ -81,7 +81,7 @@
                         empresa, proyecto o marca para satisfacer las necesidades de nuestros clientes.&nbsp;
                         Nos encargamos de orientar nuestro servicio a publicidades, videos corporativos, lanzamientos de
                         productos, registro de eventos especiales, para marcas de grandes y pequeñas empresas nacionales
-                        e internacionales
+                        e internacionales.
                     </span>
                 </p>
             </div>

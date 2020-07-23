@@ -36,7 +36,7 @@
                 <a href="/">Home</a>
                 <a href="proyectos.php">Proyectos</a>
                 <a href="nosotros.php">Productora</a>
-                <a href="#">Clientes</a>
+                <a href="clientes.php">Clientes</a>
                 <a href="contacto.php">Contacto</a>
             </div>
         </div>

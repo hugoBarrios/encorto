@@ -316,10 +316,10 @@ a {
 }
 /* contacto */
 .parrafo{
-    color: #e3e3e3;
-    font-size: 0.7rem;
-    font-family: "roboto";
-    font-weight: 100;
+    color: #ABABAB;
+    font-size: 0.8rem;
+    font-family: Roboto;
+    font-weight: 50 !important;
     letter-spacing: 2px;
 }
 .redes{
@@ -358,6 +358,9 @@ a {
     font-weight: bolder;
 }
 /* carrousel */
+.carousel-item img{
+    width: 50%;
+}
 .carousel-indicators li {
     width: 7px !important;
     height: 7px !important;
@@ -567,5 +570,14 @@ form input::placeholder,
         border-right: 0px;
         border-top: solid 1px var(--rojo);
         border-bottom: solid 1px var(--rojo);
+    }
+    /* parrafo */
+    .parrafo{
+        text-align: justify;
+        padding: 10px;
+    }
+    /* carrousel */}
+    .carousel-item img{
+        width: 80%;
     }
 }

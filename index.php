@@ -44,13 +44,13 @@
             <div class="col-md-3">
                 <div class="row ">
                     <div class="col-md-12 col-6 numero animate__fadeInLeft">
-                        <a href="#" class="text-white hover">
+                        <a href="proyectos" class="text-white hover">
                             <span class="fade-in-left">01</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
                         <h6>
-                        <a href="#" class="text-white hover">
+                        <a href="proyectos" class="text-white hover">
                             <span class="text-white">PROYECTOS</span>
                         </a>
                         </h6>
@@ -60,14 +60,14 @@
             <div class="col-md-3">
                 <div class="row ">
                     <div class="col-md-12 col-6 numero ">
-                        <a href="#" class="text-white hover">
+                        <a href="nosotros" class="text-white hover">
                             <span class="fade-in-left1" >02</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
                         <h6>
-                        <a href="#" class="text-white hover">
-                            <span class="text-white">PRODUCTOS</span>
+                        <a href="nosotros" class="text-white hover">
+                            <span class="text-white">PRODUCTORA</span>
                         </a>
                         </h6>
                     </div>
@@ -76,13 +76,13 @@
             <div class="col-md-3">
                 <div class="row ">
                     <div class="col-md-12 col-6 numero ">
-                        <a href="#" class="text-white hover">
+                        <a href="clientes" class="text-white hover">
                             <span class="fade-in-left">03</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
                         <h6>
-                        <a href="#" class="text-white hover">
+                        <a href="clientes" class="text-white hover">
                             <span class="text-white">CLIENTES</span>
                         </a>
                         </h6>  
@@ -92,13 +92,13 @@
             <div class="col-md-3">
                 <div class="row">
                     <div class="col-md-12 col-6 numero">
-                        <a href="#" class="text-white hover">
+                        <a href="contacto" class="text-white hover">
                             <span class="fade-in-left1">04</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
                         <h6>
-                        <a href="#" class="text-white hover">
+                        <a href="contacto" class="text-white hover">
                             <span class="text-white">CONTACTO</span>
                         </a>
                         </h6>

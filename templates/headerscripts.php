@@ -29,7 +29,7 @@ ga('send', 'pageview');
 <link  rel="icon"   href="src/img/favicon encorto2.png" type="image/png" />
 <!-- boostrap -->
 <link rel="stylesheet" href="src/css-boostrap/bootstrap.min.css">
-<script src="src/js/jquery-3.5.1.slim.min.js"></script>
+<script src="src/js/jquery-3.5.1.min.js"></script>
 <script src="src/js/bootstrap.min.js"></script>
 <script src="src/js/popper.min.js"></script>
 <!-- boostrap -->

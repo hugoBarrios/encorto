@@ -56,7 +56,7 @@
     <!-- contact form -->
     <div class="container contacto">
 
-        <form>
+        <form id="formulario">
             <div class="form-row">
                 <div class="form-group col">
                     <input class="form-control" type="text" required="required" aria-invalid="false" name="Nombre"
@@ -73,16 +73,16 @@
                     data-aid="subjectField">
             </div>
             <div class="form-group">
-                <input class="form-control" type="tel" aria-invalid="false" name="Teléfono" value=""
+                <input class="form-control" type="tel" aria-invalid="false" name="Telefono" value=""
                     placeholder="Teléfono" data-aid="phoneField">
             </div>
             <div class="form-group">
                 <textarea class="form-control" placeholder="Mensaje" name="Mensaje" class="cf1fieldMessage"
                     data-aid="messageField" id="comp-ivv0ccq0fieldMessage" rows="4"></textarea>
             </div>
-            <button type="submit" class="btn btn-danger btn-block">Enviar</button>
+            <button type="submit" class="btn btn-danger btn-block" id="enviar">Enviar</button>
         </form>
-
+        <div id="resp" class="text-white"></div>
     </div>
     <!--info tabs  -->
     <div class="container info">
@@ -113,6 +113,7 @@
     <script>
     AOS.init();
     </script>
+    
     <!-- Footer -->
     <?php include './templates/footer.php';?>
 

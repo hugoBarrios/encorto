@@ -116,7 +116,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Toso Trailer.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="trailertoso" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Chefs TV</h4>
                     </div>
@@ -127,7 +127,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/miniterio educacion.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="ministerioeducacion" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Min. Edu.</h4>
                     </div>
@@ -138,7 +138,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="americanexpress" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">AMEX</h4>
                     </div>
@@ -149,7 +149,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/LatinA50bets.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="50bestlatam" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">50 Best</h4>
                     </div>
@@ -160,7 +160,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/trailer los petersen en corto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="trailerpetersen" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Christian Petersen</h4>
                     </div>
@@ -173,7 +173,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Chandon_ArteBa_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="chandonarteba" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Chandon</h4>
                     </div>
@@ -184,7 +184,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Metegol_HP_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="metegol" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Hewlett-Packard</h4>
                     </div>
@@ -195,7 +195,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex Snow house web.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="cerrobayoamex" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">AMEX</h4>
                     </div>
@@ -206,7 +206,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/GastonAcurio50best2019.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="50best" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">The World's 50 Best Restaurants</h4>
                     </div>
@@ -217,7 +217,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Peugeot_Institucional_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="peugeot" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Peugeot</h4>
                     </div>
@@ -230,7 +230,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/ANTONOV FRACHT ARGENTINA.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="antonov" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Antonov</h4>
                     </div>
@@ -241,7 +241,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/propato.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="propato" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Propato</h4>
                     </div>
@@ -252,7 +252,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/SelenzaVillage_ValeriaMazza_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="selenzavillage" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Selenza Village</h4>
                     </div>
@@ -263,7 +263,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/BorjaBlazquez_Chefstv_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="borjablazquez" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Chefs TV</h4>
                     </div>
@@ -274,7 +274,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CAESA PARK FRAME.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="caesarpark" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Caesar Park</h4>
                     </div>

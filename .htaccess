@@ -1,3 +1,6 @@
+#Url amigables
 #RewriteEngine On
 #RewriteCond %{SCRIPT_FILENAME} !-f
-#RewriteRule ^([a-z]+)\/?$ $1.php [NC, L]
+#RewriteRule ^([_0-9a-zA-Z-]+)\/?$ $1.php [NC, L]
+#redireccion 301
+#redireccion 404 

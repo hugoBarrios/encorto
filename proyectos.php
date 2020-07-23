@@ -46,7 +46,7 @@
     <div class="container home">
         <div class="row ">
             <div class="col">
-                <a href="https://www.encorto.com.ar/" target="_self" class="text-white"><i
+                <a href="/" target="_self" class="text-white"><i
                         class="fas fa-arrow-left resaltado rhover"></i> HOME</a>
             </div>
         </div>
@@ -263,7 +263,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/BorjaBlazquez_Chefstv_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="borjablazquez" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Chefs TV</h4>
                     </div>

@@ -48,7 +48,7 @@
     <div class="container home-p">
         <div class="row ">
             <div class="col">
-                <a href="https://www.encorto.com.ar/" target="_self" class="text-white"><i
+                <a href="/" target="_self" class="text-white"><i
                         class="fas fa-arrow-left resaltado rhover"></i> HOME</a>
             </div>
         </div>

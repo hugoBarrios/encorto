@@ -32,13 +32,13 @@
     <div class="container no-seccion1">
         <div class="row">
             <div class="col-12 numero">
-                <hr>
+                <hr data-aos="fade-right" data-aos-offset="300" data-aos-duration="600" data-aos-easing="ease-in-sine">
                 <h3 class="text-white">02</h3>
             </div>
             <div class="col-12">
                 <h2 class="text-white">
-                        <span class="resaltado">En Corto.
-                        </span> Producciones Audiovisuales&nbsp;</h2>
+                    <span class="resaltado">En Corto.
+                    </span> Producciones Audiovisuales&nbsp;</h2>
 
                 <h2 class="text-white">
                     Dise&ntilde;o&nbsp;&amp; Agencia Creativa de Marketing Digital
@@ -133,6 +133,9 @@
             </div>
         </div>
     </div>
+    <script>
+    AOS.init();
+    </script>
     <!-- Footer -->
     <?php include './templates/footer.php';?>
 

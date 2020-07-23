@@ -8,6 +8,5 @@ $('#openNav2').on('click', function () {
 $('#closeNav').on('click', function () {
     $('#myNav').css("width", "0%");
 });
-// slider
 
     

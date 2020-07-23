@@ -44,7 +44,7 @@
                 <div class="row ">
                     <div class="col-md-12 col-6 numero animate__fadeInLeft">
                         <a href="#" class="text-white hover">
-                            <span>01</span>
+                            <span class="fade-in-left">01</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
@@ -60,7 +60,7 @@
                 <div class="row ">
                     <div class="col-md-12 col-6 numero ">
                         <a href="#" class="text-white hover">
-                            <span>02</span>
+                            <span class="fade-in-left1" >02</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
@@ -76,7 +76,7 @@
                 <div class="row ">
                     <div class="col-md-12 col-6 numero ">
                         <a href="#" class="text-white hover">
-                            <span>03</span>
+                            <span class="fade-in-left">03</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
@@ -92,7 +92,7 @@
                 <div class="row">
                     <div class="col-md-12 col-6 numero">
                         <a href="#" class="text-white hover">
-                            <span>04</span>
+                            <span class="fade-in-left1">04</span>
                         </a>
                     </div>
                     <div class="col-md-12 col-6 subtitulo">
@@ -120,6 +120,9 @@
             </div>
         </div>
     </div>
+    <script>
+    AOS.init();
+    </script>
     <!-- Footer -->
     <?php include './templates/footer.php';?>
     

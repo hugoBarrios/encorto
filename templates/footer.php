@@ -32,5 +32,6 @@
         </div>
     </footer>
     <!-- scripts -->
+   
     <script src="src/js/main.js"></script>
     <!-- scripts -->

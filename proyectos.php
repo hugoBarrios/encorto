@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+
     <!-- Metadatos SEO -->
     <title>En Corto Producciones | Audiovisual | Argentina</title>
     <meta name="Description"
@@ -32,7 +32,7 @@
     <div class="container pro-seccion1">
         <div class="row">
             <div class="col-12 numero">
-            <hr>
+                <hr data-aos="fade-right" data-aos-offset="300" data-aos-duration="600" data-aos-easing="ease-in-sine">
                 <h3 class="text-white">01</h3>
             </div>
             <div class="col-12">
@@ -53,8 +53,9 @@
     <!-- Proyectos -->
     <div class="container-fluid proyectos">
         <div class="row">
-            <div class="col-md-2dot4 cardcont col-12" >
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/REEL EN CORTO 2018.jpg')">
+            <div class="col-md-2dot4 cardcont col-12">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/REEL EN CORTO 2018.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -64,7 +65,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CarlZeiss_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CarlZeiss_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -74,7 +76,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Granotec_Back_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Granotec_Back_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -84,7 +87,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100"  style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/UrbanRun212_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/UrbanRun212_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -94,7 +98,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100"  style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Back_Polka_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Back_Polka_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -105,8 +110,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2dot4 cardcont col-12" >
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Toso Trailer.jpg')">
+            <div class="col-md-2dot4 cardcont col-12">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Toso Trailer.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -116,7 +122,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/miniterio educacion.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/miniterio educacion.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -126,7 +133,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -136,7 +144,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/LatinA50bets.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/LatinA50bets.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -146,7 +155,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/trailer los petersen en corto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/trailer los petersen en corto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -157,8 +167,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2dot4 cardcont col-12" >
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Chandon_ArteBa_EnCorto.jpg')">
+            <div class="col-md-2dot4 cardcont col-12">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Chandon_ArteBa_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -168,7 +179,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Metegol_HP_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Metegol_HP_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -178,7 +190,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex Snow house web.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/amex Snow house web.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -188,7 +201,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/GastonAcurio50best2019.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/GastonAcurio50best2019.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -198,7 +212,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Peugeot_Institucional_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Peugeot_Institucional_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -209,8 +224,9 @@
             </div>
         </div>
         <div class="row">
-            <div class="col-md-2dot4 cardcont col-12" >
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/ANTONOV FRACHT ARGENTINA.jpg')">
+            <div class="col-md-2dot4 cardcont col-12">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/ANTONOV FRACHT ARGENTINA.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -220,7 +236,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/propato.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/propato.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -230,7 +247,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/SelenzaVillage_ValeriaMazza_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/SelenzaVillage_ValeriaMazza_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -240,7 +258,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/BorjaBlazquez_Chefstv_EnCorto.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/BorjaBlazquez_Chefstv_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -250,7 +269,8 @@
                 </div>
             </div>
             <div class="col-md-2dot4 cardcont col-12">
-                <div class="card w-100 h-100" style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CAESA PARK FRAME.jpg')">
+                <div class="card w-100 h-100"
+                    style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CAESA PARK FRAME.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
                             <h5><a href="#" class="card-link hover">VIEW></a></h5>
@@ -262,6 +282,9 @@
         </div>
     </div>
     <!-- Footer -->
+    <script>
+    AOS.init();
+    </script>
     <?php include './templates/footer.php';?>
 
 </body>

@@ -32,11 +32,11 @@
     <div class="container pro-seccion1">
         <div class="row">
             <div class="col-6 numero">
-                <hr>
+                <hr data-aos="fade-right" data-aos-offset="300" data-aos-duration="600" data-aos-easing="ease-in-sine">
                 <h3 class="text-white">04</h3>
             </div>
             <div class="col-6 redes">
-                
+
             </div>
             <div class="col-12">
                 <h2 class="text-white">Contacto</h2>
@@ -109,6 +109,9 @@
             </div>
         </div>
     </div>
+    <script>
+    AOS.init();
+    </script>
     <!-- Footer -->
     <?php include './templates/footer.php';?>
 

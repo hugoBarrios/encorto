@@ -9,7 +9,6 @@
     <title>En Corto Producciones | Audiovisual | Argentina</title>
     <meta name="Description"
         content="Trabajamos con cuentas directas o de agencias hace mas de 15 años realizando de proyectos audiovisuales con diversos objetivos." />
-    ">
     <meta name="keywords"
         content="Agencia de Community Manager, Cotizar Video Institucional, Gesti&amp;oacute;n de Redes Sociales&amp;lrm;, Producciones Audiovisuales, Videos Corporativos, Videos Institucionales, Videos para Empresas, comunity manager, comunnity manager" />
 
@@ -19,7 +18,6 @@
     <meta property="og:url" content="https://www.encorto.com.ar/clientes">
     <meta property="og:description"
         content="Trabajamos con cuentas directas o de agencias hace mas de 15 años realizando de proyectos audiovisuales con diversos objetivos." />
-    ">
     <meta property="og:type" content="website">
     <meta property="og:image" content="https://www.encorto.com.ar/src/img/favicon.gif">
     <meta name="fb_admins_meta_tag" content="ENCORTOPRODUCCIONES" />
@@ -34,7 +32,7 @@
     <div class="container no-seccion1">
         <div class="row">
             <div class="col-12 numero">
-                <hr>
+                <hr data-aos="fade-right" data-aos-offset="300" data-aos-duration="600" data-aos-easing="ease-in-sine">
                 <h3 class="text-white">03</h3>
             </div>
             <div class="col-12">
@@ -109,7 +107,10 @@
         </div>
     </div>
     <script>
-        document.getElementsByClassName("carousel-item")[0].className += " active";
+    document.getElementsByClassName("carousel-item")[0].className += " active";
+    </script>
+    <script>
+    AOS.init();
     </script>
     <!-- Footer -->
     <?php include './templates/footer.php';?>

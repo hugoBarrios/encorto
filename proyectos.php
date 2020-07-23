@@ -59,7 +59,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/REEL EN CORTO 2018.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="reel" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Reel</h4>
                     </div>
@@ -70,7 +70,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/CarlZeiss_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="zeiss" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Carl Zeiss</h4>
                     </div>
@@ -81,7 +81,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Granotec_Back_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="granotec" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Granotec</h4>
                     </div>
@@ -92,7 +92,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/UrbanRun212_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="backstageurbanrun212" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Urban Run</h4>
                     </div>
@@ -103,7 +103,7 @@
                     style="background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url('src/img/proyectos/Back_Polka_EnCorto.jpg')">
                     <div class=" card-body text-white d-flex flex-column justify-content-end ">
                         <div class="link">
-                            <h5><a href="#" class="card-link hover">VIEW></a></h5>
+                            <h5><a href="backstagepolka" class="card-link hover">VIEW></a></h5>
                         </div>
                         <h4 class="card-title">Pol-ka</h4>
                     </div>

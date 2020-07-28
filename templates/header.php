@@ -3,7 +3,7 @@
         <nav class="nvescritorio navbar navbar-light bg-none fixed-top justify-content-between">
             <a class="navbar-brand hover">encorto</a>
             <a class="nav-link" id="openNav" href="#menu">
-                <i class="fas fa-bars"></i>
+                <i class="fas fa-bars resaltado"></i>
             </a>
         </nav>
         <!-- navbar  mobil-->

@@ -110,6 +110,14 @@
             </div>
         </div>
     </div>
+    <div class="container">
+        <div class="row">
+            <a href="http://qr.afip.gob.ar/?qr=EdpKByYwTLPH3BVjpeUNPA,," class="rounded mx-auto d-block" target="_blank">
+            <img src="./src/img/IMG_20180618_072525.jpg" class="rounded mx-auto d-block" alt="Datafiscal"> 
+            </a>
+                  
+        </div>
+    </div>
     <script>
     AOS.init();
     </script>

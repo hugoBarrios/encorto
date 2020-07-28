@@ -1,6 +1,11 @@
+RewriteEngine on
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule ^(.*)$ $1.php
 #Url amigables
 #RewriteEngine On
 #RewriteCond %{SCRIPT_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-f
 #RewriteRule ^([_0-9a-zA-Z-]+)\/?$ $1.php [NC, L]
 #redireccion 301
 #RedirectMatch 301 (.*)\.html$ http://www.encorto.com.ar$1.php

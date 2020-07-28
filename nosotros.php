@@ -35,14 +35,18 @@
             <div class="col-12 numero">
                 <hr data-aos="fade-right" data-aos-offset="300" data-aos-duration="600" data-aos-easing="ease-in-sine">
                 <h3 class="text-white">02</h3>
-            </div>
+            </div> 
             <div class="col-12">
-                <h2 class="text-white">
+                <h2 class="text-white d-none d-md-block">
                     <span class="resaltado">En Corto.
                     </span> Producciones Audiovisuales&nbsp;</h2>
 
-                <h2 class="text-white">
+                <h2 class="text-white d-none d-md-block">
                     Dise&ntilde;o&nbsp;&amp; Agencia Creativa de Marketing Digital
+                </h2>
+                <h2 class="text-white d-block d-md-none">
+                <span class="resaltado">En Corto.
+                    </span> Producciones Audiovisuales&nbsp; Dise&ntilde;o&nbsp;&amp; Agencia Creativa de Marketing Digital
                 </h2>
             </div>
             <div class="col-12 parrafo">

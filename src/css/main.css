@@ -625,13 +625,13 @@ form textarea::placeholder {
     }
 
     .pro-seccion1 .numero {
-        padding: 20px;
+        padding: 0px 20px 0px 40px;
     }
 
     .pro-seccion1 .numero hr {
         height: 8px;
-        width: 80px;
-        margin: 0 0 -40px -10px;
+        width: 100px;
+        margin: 0 0 -40px -15px;
     }
 
     .pro-seccion1 h3 {
@@ -648,13 +648,13 @@ form textarea::placeholder {
 
     /* nosotros */
     .no-seccion1 .numero {
-        padding: 20px;
+        padding: 0px 20px 0px 40px;
     }
 
     .no-seccion1 .numero hr {
         height: 8px;
-        width: 80px;
-        margin: 0 0 -40px -10px;
+        width: 100px;
+        margin: 0 0 -40px -15px;
     }
 
     .no-seccion1 h3 {
@@ -662,11 +662,12 @@ form textarea::placeholder {
     }
 
     .no-seccion1 {
-        padding-top: 18%;
+        padding-top: 10%;
     }
 
     .no-seccion1 h2 {
         font-size: 22px;
+        line-height: 25px;
     }
 
     .home {
@@ -690,8 +691,8 @@ form textarea::placeholder {
 
     /* parrafo */
     .parrafo {
-        text-align: justify;
-        padding: 10px;
+        padding: 20px;
+        line-height: normal;
     }
 
     /* carrousel */
